@@ -1,0 +1,6 @@
+{
+  "name": "Programación de Microcontroladores",
+  "description": "Plataforma educativa e interactiva sobre fundamentos, arquitectura, periféricos y programación de microcontroladores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
